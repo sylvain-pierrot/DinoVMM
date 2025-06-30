@@ -1,0 +1,8 @@
+[package]
+name = "dino_vmm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+kvm-bindings = "0.13.0"
+kvm-ioctls = "0.23.0"
